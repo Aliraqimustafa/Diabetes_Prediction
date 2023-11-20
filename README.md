@@ -1,4 +1,4 @@
-# Diabetes_Prediction 🩺💉
+# Diabetes Prediction 🩺💉
 
 Welcome to the Diabetes Prediction project repository! This project aims to predict diabetes based on various health indicators using the [Healthcare Diabetes Dataset](https://www.kaggle.com/datasets/nanditapore/healthcare-diabetes).
 
